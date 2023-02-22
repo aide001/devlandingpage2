@@ -64,7 +64,7 @@ color: white;
 {
     margin-top:30px;
     color: white;
-    font-size: 2rem;
+    font-size: 1.6rem;
     line-height: 2;
     font-family: Arial;
     text-align:center;
@@ -74,7 +74,7 @@ color: white;
 .secondheader {
     margin-top:40px;
     color: white;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     line-height: 2;
     font-family: Arial;
     text-align:center;
@@ -110,6 +110,12 @@ h2{
     line-height: 1.5;
 }
 
+h3{
+    font-family: "Arial";
+    font-weight:bold;
+    font-size: 1.2rem;
+    line-height: 1.5
+}
 
 
 .title-image{
@@ -170,7 +176,7 @@ h2{
 
         font-family: "Arial";
         text-align: center;
-        font-size: 1.7rem;
+        font-size: 1.2rem;
         line-height: 1.5;
         color:  white;
         padding: 0% 0%;
@@ -320,7 +326,7 @@ padding: 3% 2%;
 .pricingsecond {
 
     color: white;
-    font-size: 1.4rem;
+    font-size: 1rem;
     
     font-family: Arial;
     text-align:center;
